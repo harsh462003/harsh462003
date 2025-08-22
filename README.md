@@ -23,9 +23,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,21 +48,21 @@
 
 ## 📊 GitHub Stats
 
+### Side by Side Stats + Languages
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh462003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh462003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+### Activity Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh462003&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh462003&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🎯 Current Projects & Focus
-
-- 🤖 **SmartOps: Intelligent Ops Deck** - Modular AI automation system for campus workflows with natural language processing
-- 📊 **RAG-based Query Bot** - Academic query resolution system with 70% workload reduction
-- 🔍 **Fake News Classification** - Multilingual classifier for regional languages (Kannada) achieving 95% accuracy
-- 👁️ **Face Recognition Attendance System** - Real-time CNN-based attendance tracking with OpenCV
+### Profile Summary Cards
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh462003&theme=tokyonight" alt="Profile Summary" />
+</div>
 
 ## 💼 Professional Experience
 
@@ -77,6 +77,30 @@ class HarshithNagaraj:
             "RAG Systems", "Process Automation"
         ]
         
+    def internship_experience(self):
+        return {
+            "chipsy_udupi": {
+                "role": "Web Development Intern",
+                "period": "Dec 2023 - Jan 2024",
+                "work": "Cross-browser UI engineering, Figma to code conversion"
+            },
+            "manipal_tech": {
+                "role": "Software Development Intern", 
+                "period": "June - Aug 2024",
+                "work": "ASP.NET backend development, 50% manual intervention reduction"
+            },
+            "pdc_chatbot": {
+                "role": "Software Development Intern",
+                "period": "Jan - May 2024", 
+                "work": "RAG-based chatbot, 70% workload automation"
+            },
+            "pdc_smartops": {
+                "role": "AI Automation Lead",
+                "period": "May - July 2025",
+                "work": "Campus workflow digitization with n8n and AI integration"
+            }
+        }
+    
     def current_expertise(self):
         return {
             "automation_tools": ["n8n", "LangChain", "Retell AI", "Zapier"],
@@ -84,49 +108,15 @@ class HarshithNagaraj:
             "databases": ["PostgreSQL", "MongoDB", "Milvus", "FAISS"],
             "specializations": ["NLP", "Computer Vision", "Workflow Automation"]
         }
-    
-    def achievements(self):
-        return [
-            "Reduced manual intervention by 50% in enterprise systems",
-            "Automated academic queries with 70% workload reduction", 
-            "Built cross-browser compatible web solutions",
-            "Developed real-time AI-powered attendance systems"
-        ]
 ```
-
-## 🏆 Key Achievements
-
-- 🔄 **Workflow Automation Expert**: Engineered SmartOps with natural language-driven campus operations
-- 🎯 **AI Implementation**: Built RAG-based systems reducing manual workload by 70%
-- 🌐 **Full-Stack Development**: Cross-browser UI engineering with performance optimizations
-- 📈 **Enterprise Solutions**: Backend development reducing manual intervention by 50%
-- 🧠 **Research**: Fake news classification achieving 95% accuracy for regional languages
-
-## 🔧 Specializations
-
-**🤖 Agentic Workflows & Automation**
-- Building intelligent workflow orchestration systems
-- Natural language processing for automated decision making
-- Event-driven automation with dynamic API orchestration
-
-**🧠 AI & Machine Learning**
-- RAG (Retrieval-Augmented Generation) systems
-- LLM integration and fine-tuning
-- Computer vision and NLP applications
-
-**📊 Data Engineering & Analytics**
-- Real-time data processing pipelines
-- Semantic search and vector databases
-- Business intelligence and reporting
 
 ## 📫 Let's Connect!
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshith462003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith-nagaraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshithnagaraj-462003h4/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh462003)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918310317368)
 
 </div>
 
