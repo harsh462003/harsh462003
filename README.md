@@ -8,7 +8,7 @@
 - 🎓 M.E. Computer Science @ **MAHE Manipal** (prev. B.Tech @ MIT Manipal)
 - 🤖 I mostly work on **RAG and LLM apps** — document Q&A, chatbots, retrieval pipelines — plus applied ML on real datasets
 - 🔍 Right now I'm into **retrieval/search quality** and **NLP for Indian languages** like Kannada
-- 🧩 I take things end-to-end: clean the data → train/wire the model → ship the app (FastAPI / Streamlit) on top
+- 🧩 I take things end-to-end: clean the data → train/wire the model → ship the app on top
 - 💬 Happy to talk embeddings, retrieval, or anything LLM-shaped
 
 ---
