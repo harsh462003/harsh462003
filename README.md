@@ -3,7 +3,7 @@
 
 ---
 
-### 👋 About
+###  About
 
 - 🎓 M.E. Computer Science @ **MAHE Manipal** (prev. B.Tech @ MIT Manipal)
 - 🤖 I mostly work on **RAG and LLM apps** — document Q&A, chatbots, retrieval pipelines — plus applied ML on real datasets
