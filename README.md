@@ -14,11 +14,8 @@
 
 ### 🧰 Tech I actually use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,flask,postgres,mongodb,docker,git,github,c,cpp,java,js,html,css,vscode,linux,anaconda,selenium,figma,bash,kubernetes&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,flask,postgres,mongodb,docker,git,github,c,cpp,java,js,html,css,linux,anaconda,selenium,figma,bash,kubernetes&perline=12" alt="Tech stack" />
 </p>
-
-**Data / warehouse:** dbt · Snowflake · Apache Airflow · Power BI
-**LLM / RAG toolkit:** LangChain · Streamlit · FAISS · ChromaDB · Hugging Face · Groq · OpenAI API
 
 ---
 
