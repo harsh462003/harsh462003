@@ -17,15 +17,5 @@
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,flask,postgres,mongodb,docker,git,github,c,cpp,java,js,html,css,linux,anaconda,selenium,figma,bash,kubernetes&perline=12" alt="Tech stack" />
 </p>
 
----
-
-### 📫 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshithnagaraj-462003h4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:harshith462003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh462003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer" width="100%"/>
